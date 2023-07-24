@@ -1,0 +1,17 @@
+.score{
+    width: 280px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 16px;
+    text-align: center;
+    margin: 16px;
+    box-shadow: 0 2px 4px hsla(0, 0%, 0%, 0.1);
+    background-color: white;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    h2{
+        margin:0;
+    }
+}
